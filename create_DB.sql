@@ -1,0 +1,1 @@
+create database seguimiento_reactivos;
