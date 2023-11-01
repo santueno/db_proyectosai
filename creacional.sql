@@ -14,7 +14,8 @@ CREATE TABLE reactivo (
     conservacion character varying,
     fecha_finalizacion date,
     marca character varying,
-    fecha_descarte date
+    fecha_descarte date,
+    contador integer 
 );
 
 -- Elimina la tabla si existe
